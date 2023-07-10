@@ -1,5 +1,4 @@
-import { Hero } from './hero';
-import { HEROES } from './mock-heroes';
+import { HEROES } from "./mock-heroes";
 
 export interface Hero {
     id: number;
